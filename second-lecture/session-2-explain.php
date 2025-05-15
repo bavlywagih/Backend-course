@@ -102,6 +102,14 @@ else{
 
 echo "Number of years" . $i ; 
 
+
+
+/* github codes :
+                git init / git status /git add . / git commit -m "..." / git branch -m main / git remote add origin "link" / git push -u origin main
+*/
+
+
+
 ?>
 
 
